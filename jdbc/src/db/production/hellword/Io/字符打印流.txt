@@ -1,0 +1,3 @@
+不需要手动刷新
+new filewrite特有方法不需要flush
+wtite需要flush

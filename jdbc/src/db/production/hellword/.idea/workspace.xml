@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a45404c-be32-4d5c-9ed6-46514223a1b1" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pPQA1s6ILBf2VLtZ1gvoFVXKFd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/新建文件夹/book" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\86151\IdeaProjects\hellword\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.loingView">
+    <configuration name="自增自减加锁类" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="多线程.src.自增自减加锁类" />
+      <module name="hellword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="多线程.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lei.src.Lei.array" />
+      <module name="hellword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lei.src.Lei.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loingView (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookSwing.src.loingView" />
+      <module name="hellword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BookSwing.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="loingView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="book.src.loingView" />
+      <module name="hellword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="book.src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BookSystem.版本1.main" />
+      <module name="hellword" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BookSystem.版本1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.loingView" />
+        <item itemvalue="Application.loingView (1)" />
+        <item itemvalue="Application.自增自减加锁类" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.array" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a45404c-be32-4d5c-9ed6-46514223a1b1" name="默认更改列表" comment="" />
+      <created>1615082098314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615082098314</updated>
+      <workItem from="1615082099562" duration="319000" />
+      <workItem from="1615082429444" duration="410000" />
+      <workItem from="1615082861231" duration="1744000" />
+      <workItem from="1615084619249" duration="1593000" />
+      <workItem from="1615335893259" duration="2000" />
+      <workItem from="1615336160478" duration="1898000" />
+      <workItem from="1615518535264" duration="73000" />
+      <workItem from="1615518728375" duration="335000" />
+      <workItem from="1615519074477" duration="622000" />
+      <workItem from="1615892958686" duration="30000" />
+      <workItem from="1615893118458" duration="120000" />
+      <workItem from="1616383756861" duration="145000" />
+      <workItem from="1616466414927" duration="1747000" />
+      <workItem from="1616637915215" duration="323000" />
+      <workItem from="1616639459516" duration="11000" />
+      <workItem from="1616718936845" duration="27000" />
+      <workItem from="1618456038707" duration="31000" />
+      <workItem from="1618456166307" duration="51000" />
+      <workItem from="1618969615169" duration="196000" />
+      <workItem from="1619059079149" duration="76000" />
+      <workItem from="1619438492938" duration="844000" />
+      <workItem from="1623025801407" duration="109000" />
+      <workItem from="1625617782614" duration="708000" />
+      <workItem from="1626571298225" duration="183000" />
+      <workItem from="1626699909444" duration="628000" />
+      <workItem from="1631149072949" duration="199000" />
+      <workItem from="1637069978295" duration="838000" />
+      <workItem from="1637070919221" duration="6000" />
+      <workItem from="1647661096114" duration="31000" />
+      <workItem from="1659313247333" duration="1688000" />
+      <workItem from="1661131037938" duration="2802000" />
+      <workItem from="1661138906787" duration="2679000" />
+      <workItem from="1661147526715" duration="2141000" />
+      <workItem from="1661149823933" duration="1797000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="0" width="818" height="1020" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1661159626160">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="695" y="0" width="818" height="1020" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1020@0.0.1920.1020" timestamp="1661159626160" />
+    <state x="957" y="173" key="FileChooserDialogImpl" timestamp="1659314309429">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="957" y="173" key="FileChooserDialogImpl/0.0.1920.1020@0.0.1920.1020" timestamp="1659314309429" />
+    <state width="1864" height="398" key="GridCell.Tab.0.bottom" timestamp="1661149685194">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state width="1864" height="398" key="GridCell.Tab.0.bottom/0.0.1920.1020@0.0.1920.1020" timestamp="1661149685194" />
+    <state width="1864" height="398" key="GridCell.Tab.0.center" timestamp="1661149685193">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state width="1864" height="398" key="GridCell.Tab.0.center/0.0.1920.1020@0.0.1920.1020" timestamp="1661149685193" />
+    <state width="1864" height="398" key="GridCell.Tab.0.left" timestamp="1661149685193">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state width="1864" height="398" key="GridCell.Tab.0.left/0.0.1920.1020@0.0.1920.1020" timestamp="1661149685193" />
+    <state width="1864" height="398" key="GridCell.Tab.0.right" timestamp="1661149685193">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state width="1864" height="398" key="GridCell.Tab.0.right/0.0.1920.1020@0.0.1920.1020" timestamp="1661149685193" />
+    <state x="-9" y="-9" width="1545" height="985" maximized="true" key="dock-window-1" timestamp="1661137760727">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="-9" y="-9" width="1545" height="985" maximized="true" key="dock-window-1/0.0.1920.1020@0.0.1920.1020" timestamp="1661137760727" />
+    <state x="490" y="127" width="940" height="766" key="find.popup" timestamp="1661147869048">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="490" y="127" width="940" height="766" key="find.popup/0.0.1920.1020@0.0.1920.1020" timestamp="1661147869048" />
+    <state x="812" y="25" key="new project wizard" timestamp="1661150108648">
+      <screen x="0" y="0" width="1920" height="1020" />
+    </state>
+    <state x="812" y="25" key="new project wizard/0.0.1920.1020@0.0.1920.1020" timestamp="1661150108648" />
+  </component>
+</project>
